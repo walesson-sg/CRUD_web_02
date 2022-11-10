@@ -60,7 +60,7 @@ const ListTeacher = () => {
 
     return (
         <div>
-            <h1>Listar Professores</h1>
+            <h1>Listar Professores <Link to={'/createTeacher'} className='btn btn-primary'>Novo Professor</Link></h1>
             <table className='table table-striped'>
                 <thead>
                     <tr>

@@ -68,7 +68,8 @@ const ListStudent = () => {
 
     return (
         <div>
-            <h1>Listar Estudante</h1>
+            <h1>Listar Estudante <Link to={'/createStudent'} className='btn btn-primary'>Novo Estudante</Link></h1>
+            
             <table className='table table-striped'>
                 <thead>
                     <tr>
@@ -83,6 +84,8 @@ const ListStudent = () => {
                     {generateTableBody()}
                 </tbody>
             </table>
+            <div>
+            </div>
         </div>
     )
 }
