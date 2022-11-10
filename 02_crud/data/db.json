@@ -1,0 +1,40 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "Jefferson",
+      "course": "SI",
+      "ira": 7.6
+    },
+    {
+      "id": 3,
+      "name": "João",
+      "course": "CC",
+      "ira": 8.5
+    },
+    {
+      "name": "Jeandro Bezerra",
+      "course": "Redes de Computadores",
+      "ira": "6.1",
+      "id": 4
+    },
+    {
+      "name": "Paulo",
+      "course": "EC",
+      "ira": "10",
+      "id": 5
+    },
+    {
+      "name": "Cristiano",
+      "course": "EC",
+      "ira": "5.6",
+      "id": 6
+    },
+    {
+      "name": "walesson",
+      "course": "ES",
+      "ira": "11221155",
+      "id": 7
+    }
+  ]
+}
