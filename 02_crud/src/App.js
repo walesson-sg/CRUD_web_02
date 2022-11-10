@@ -14,6 +14,21 @@ function App() {
           </li>
 
           <li className='nav-item dropdown'>
+
+            <a className="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">Professor</a>
+            <ul className="dropdown-menu dropdown-menu-light">
+              <li>
+                <Link className="dropdown-item" to='/createTeacher'>Criar Professor</Link>
+              </li>
+              <li>
+                <Link className="dropdown-item" to='/listTeacher'>Listar Professores</Link>
+              </li>
+            </ul>
+
+          </li>
+
+          <li className='nav-item dropdown'>
+
             <a className="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
               Estudante
             </a>
@@ -25,6 +40,7 @@ function App() {
                 <Link className="dropdown-item" to='/listStudent'>Listar Estudante</Link>
               </li>
             </ul>
+
           </li>
 
         </ul>

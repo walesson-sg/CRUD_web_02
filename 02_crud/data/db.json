@@ -36,5 +36,37 @@
       "ira": "11221155",
       "id": 7
     }
+  ],
+  "teachers": [
+    {
+      "id": 1,
+      "name": "Jefferson",
+      "course": "SI",
+      "salary": 6.235
+    },
+    {
+      "name": "P1",
+      "course": "CC",
+      "salary": "5.232",
+      "id": 2
+    },
+    {
+      "name": "P2",
+      "course": "ES",
+      "salary": "5.326",
+      "id": 3
+    },
+    {
+      "name": "P3",
+      "course": "DD",
+      "salary": "5.342",
+      "id": 4
+    },
+    {
+      "name": "P4",
+      "course": "EC",
+      "salary": "5.243",
+      "id": 5
+    }
   ]
 }
