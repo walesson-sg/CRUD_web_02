@@ -1,0 +1,64 @@
+{
+  "students": [
+    {
+      "name": "Deigela Lima",
+      "course": "CC",
+      "ira": "8.5",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "name": "Eduardo",
+      "course": "ES",
+      "ira": 8
+    },
+    {
+      "id": 3,
+      "name": "Felipe",
+      "course": "EC",
+      "ira": 6.8
+    },
+    {
+      "id": 4,
+      "name": "Sarah",
+      "course": "CC",
+      "ira": 9
+    },
+    {
+      "name": "Paulo de Tarso",
+      "course": "EC",
+      "ira": "8",
+      "id": 5
+    },
+    {
+      "name": "Cristiano",
+      "course": "SI",
+      "ira": "5.6",
+      "id": 6
+    },
+    {
+      "name": "Juliana",
+      "course": "EC",
+      "ira": "8",
+      "id": 7
+    },
+    {
+      "name": "Mateus",
+      "course": "RC",
+      "ira": "7",
+      "id": 8
+    },
+    {
+      "name": "Paula",
+      "course": "CC",
+      "ira": "8",
+      "id": 9
+    },
+    {
+      "name": "Serafina",
+      "course": "ES",
+      "ira": "8",
+      "id": 11
+    }
+  ]
+}
